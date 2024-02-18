@@ -9,7 +9,7 @@ This is a chrome extension I made to complete Xronos homework assignments. The a
 ![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
 </details>
 
-
+![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
 
 ## Usage
 
