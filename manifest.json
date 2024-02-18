@@ -1,0 +1,46 @@
+{
+    "name": "Auto Xronos",
+    "version": "1.0.0.0",
+    "description": "https://github.com/Chungmire/Auto-Xronos",
+    "permissions": ["storage", "activeTab", "tabs", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["contentScript.js"],
+        "css": ["button.css"]
+      }
+    ],
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "assets/save.png"
+        ],
+        "matches": ["<all_urls>"]
+      }
+    ],
+    "icons": {
+      "16": "assets/stew.png",
+      "24": "assets/stew.png",
+      "32": "assets/stew.png",
+      "48": "assets/stew.png",
+      "64": "assets/stew.png",
+      "128": "assets/stew.png"
+    },
+    "action": {
+      "default_icon": {
+        "16": "assets/stew.png",
+        "24": "assets/stew.png",
+        "32": "assets/stew.png",
+        "48": "assets/stew.png",
+        "64": "assets/stew.png",
+        "128": "assets/stew.png"
+      },
+      "default_title": "https://github.com/Chungmire/Auto-Xronos",
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
