@@ -3,7 +3,12 @@
 
 This is a chrome extension I made to complete Xronos homework assignments. The answers are stored in a script loaded on the page, so this simply extracts them and enters them in the correct answer fields. It adds a button at the top of the page which attempts to complete the entire assignment when clicked. I tested this on around 20 assignments I had already completed at the end of the semester.
 
+<details>
+<summary>Example GIF</summary>
+<br>
 ![](https://github.com/Chungmire/Xronos-Solver/blob/main/example.gif)
+</details>
+
 
 
 ## Usage
