@@ -1,4 +1,4 @@
-# Xronos-Solver
+# Auto-Solver
 This is a chrome extension I made to complete Xronos homework assignments. The answers are stored in a script loaded on the page, so this simply extracts them and enters them in the correct answer fields. It adds a button at the top of the page which attempts to complete the entire assignment when clicked. I tested this on around 20 assignments I had already completed at the end of the semester.
 ![](https://github.com/Chungmire/Xronos-Solver/blob/main/example.gif)
 
@@ -13,7 +13,7 @@ This is a chrome extension I made to complete Xronos homework assignments. The a
 6. Find the `xronos` folder and double click it
 7. Refresh any Xronos pages.
 
-
+---
 ## Limitations
 > _Note: My last class that used Xronos was a few semesters ago. if you have a change, I will gladly review and accept any pull requests._
 1. Some assignments seem to be crafted differently. I was only able to account for around 5 different variations in how the answers are stored. It's easy to do this; make an issue if it's not working on yours.
