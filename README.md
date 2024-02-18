@@ -3,13 +3,6 @@
 
 This is a chrome extension I made to complete Xronos homework assignments. The answers are stored in a script loaded on the page, so this simply extracts them and enters them in the correct answer fields. It adds a button at the top of the page which attempts to complete the entire assignment when clicked. I tested this on around 20 assignments I had already completed at the end of the semester.
 
-<details>
-<summary>Example GIF</summary>
-<br>
-![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
-</details>
-
-![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
 
 ## Usage
 
@@ -20,6 +13,9 @@ This is a chrome extension I made to complete Xronos homework assignments. The a
 5. Click `Load Unpacked` in the top left
 6. Find the `xronos` folder and double click it
 7. Refresh any Xronos pages.
+
+
+![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
 
 ---
 ## Limitations
