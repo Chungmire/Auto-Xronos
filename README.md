@@ -13,7 +13,7 @@ This is a chrome extension I made to complete Xronos homework assignments. The a
 5. Click `Load Unpacked` in the top left
 6. Find the `xronos` folder and double click it
 7. Refresh any Xronos pages.
-
+<br>
 
 ![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
 
