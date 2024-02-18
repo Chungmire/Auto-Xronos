@@ -6,7 +6,7 @@ This is a chrome extension I made to complete Xronos homework assignments. The a
 <details>
 <summary>Example GIF</summary>
 <br>
-![](https://github.com/Chungmire/Xronos-Solver/blob/main/example.gif)
+![](https://github.com/Chungmire/Auto-Xronos/blob/main/example.gif?raw=true)
 </details>
 
 
