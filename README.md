@@ -5,8 +5,13 @@ This is a chrome extension I made to complete Xronos homework assignments. The a
 
 ## Usage
 
-1. Download from [Releases](https://github.com/Chungmire/).
-2. Step
+1. Download from [Releases](https://github.com/Chungmire/Auto-Xronos/releases/download/Current/Xronos.zip).
+2. Unzip. Result should be just the `xronos` folder.
+3. Navigate to [extensions](chrome://extensions/).
+4. Toggle on "Developer Mode" in the top right.
+5. Click "Load Unpacked"
+6. Find the `xronos` folder and double click it
+7. Refresh any Xronos pages.
 
 
 ## Limitations
